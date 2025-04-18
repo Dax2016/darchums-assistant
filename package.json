@@ -1,0 +1,17 @@
+{
+  "name": "darchums-assistant",
+  "version": "1.0.0",
+  "description": "Backend for Darchums Assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "author": "Darchums",
+  "license": "ISC"
+}
